@@ -13,15 +13,15 @@
 
 <span align="center">
 
-[![Run on Repl.it](https://repl.it/badge/github/erdkse/adminlte-3-angular)](https://repl.it/github/erdkse/adminlte-3-angular)
-![Vercel](https://img.shields.io/github/deployments/erdkse/adminlte-3-angular/production.svg?logo=vercel&label=vercel)
-![Issues](https://img.shields.io/github/issues/erdkse/adminlte-3-angular)
-![Forks](https://img.shields.io/github/forks/erdkse/adminlte-3-angular)
-![Stars](https://img.shields.io/github/stars/erdkse/adminlte-3-angular)
+[![Run on Repl.it](https://repl.it/badge/github/LearningFromStack/turbo-octo-spoon)](https://repl.it/github/LearningFromStack/turbo-octo-spoon)
+![Vercel](https://img.shields.io/github/deployments/LearningFromStack/turbo-octo-spoon/production.svg?logo=vercel&label=vercel)
+![Issues](https://img.shields.io/github/issues/LearningFromStack/turbo-octo-spoon)
+![Forks](https://img.shields.io/github/forks/LearningFromStack/turbo-octo-spoon)
+![Stars](https://img.shields.io/github/stars/LearningFromStack/turbo-octo-spoon)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 ![GitHub last commit](https://img.shields.io/github/last-commit/erdkse/adminlte-3-angular.svg)
-[![License](https://img.shields.io/github/license/erdkse/adminlte-3-angular.svg)](LICENSE)
-![Sponsors](https://img.shields.io/github/sponsors/erdkse.svg)
+[![License](https://img.shields.io/github/license/LearningFromStack/turbo-octo-spoon.svg)](LICENSE)
+![Sponsors](https://img.shields.io/github/sponsors/LearningFromStack/turbo-octo-spoon)
 
 </span>
 
